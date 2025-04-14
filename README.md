@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Rodrigo Ferrer</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <br>
 
@@ -12,17 +12,15 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding-animation" /></p>
 
 
-- 🌱 I'm currently deepening my knowledge in web development and cloud architectures
+- 🌱 I'm currently deepening my knowledge in web development
 
-- 📫 How to reach me **[your-email@example.com]**
-
-- ⚡ Fun fact :- I'm passionate about solving complex problems with elegant solutions
+- 📫 How to reach me **rodrigoferrer30@gmail.com**
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/rodrigoferrer/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/rodrigo-ferrer-742034227/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="rodrigo ferrer" height="30" width="40" /></a>
   <a href="https://github.com/Rodrigoferrer" target="blank"><img align="center"
@@ -55,32 +53,18 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlalchemy/sqlalchemy-icon.svg" alt="sqlalchemy" width="40" height="40" />
   </a>
 </p>
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>GitHub Stats :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodrigoferrer&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="Rodrigoferrer" 
-    bg_color=#808080/></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodrigoferrer&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    src="https://github-readme-stats.vercel.app/api?username=Rodrigoferrer&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&hide=contribs,issues"
     alt="Rodrigoferrer" /></p>
 
 <br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rodrigoferrer&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Rodrigoferrer" /></p>
 
 [Rodrigoferrer](https://github.com/Rodrigoferrer)
