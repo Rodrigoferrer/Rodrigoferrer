@@ -6,6 +6,8 @@ Software Developer
 
 Transitioning to Software Development with solid experience in SaaS sales and digital platform management. My background includes managing online auctions for several years, which sparked my interest in programming.
 
+I am currently developing an automated and secure auction platform as my final project. I am eager to participate in projects or companies that implement payment systems and user verification processes, always committed to enhancing the user experience in terms of functionality.
+
 * 🌍  I'm based in Uruguay
 * ✉️  You can contact me at [rodrigoferrer30@gmail.com](mailto:rodrigoferrer30@gmail.com)
 * 🧠  I'm learning .NET
